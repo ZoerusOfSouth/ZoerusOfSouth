@@ -10,7 +10,7 @@ const ZoeData = {
         "make a discord bot": true,
         "travel around the world": loading()
     },
-    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Code"]
+    loves: ["Hambuguer", "Ice Cream", "Eletronic Music", "Heavy Metal", "Code"]
 }
 
 console.log(ZoeData)
